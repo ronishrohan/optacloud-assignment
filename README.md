@@ -1,4 +1,4 @@
-# RUNNING
+# Running
 ## Frontend:
 ```console
 cd ./optacloud-assignment
@@ -11,3 +11,5 @@ cd ./optacloud-backend
 npm i
 node ./index.js
 ```
+
+Coudln't finish since I had very less time
